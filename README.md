@@ -11,7 +11,7 @@ Please, do not use this script for illegal purposes. I'm not responsible of anyt
 How to use USBsteal?
 
 1) Clone all files from https://github.com/karljfs/USBsteal into your computer.
-2) Put all files on an USB stick (it doesn't have be empty).
+2) Put all files on an USB stick (it doesn't have to be empty).
 3) Insert your USB stick into a Windows computer.
 4) Enjoy!
 
