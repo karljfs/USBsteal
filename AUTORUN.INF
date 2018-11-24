@@ -1,0 +1,3 @@
+[AutoRun]
+OPEN=STARTDOC.EXE script.bat
+LABEL=- USB Flash Drive 181122 -
