@@ -1,13 +1,1 @@
- Volume in drive C is Windows
- Volume Serial Number is 8ED4-7658
 
- Directory of C:\Users
-
-16.05.2018  09:25    <DIR>          .
-16.05.2018  09:25    <DIR>          ..
-23.10.2018  11:12    <DIR>          Admin
-12.04.2017  17:02    <DIR>          Default.migrated
-06.11.2018  15:08    <DIR>          Kasutaja
-16.05.2018  20:23    <DIR>          Public
-               0 File(s)              0 bytes
-               6 Dir(s)  33ÿ042ÿ821ÿ120 bytes free
