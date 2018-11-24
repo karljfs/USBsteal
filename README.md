@@ -1,11 +1,9 @@
 # USBsteal
 
 The USBsteal was made by Karl J. F. Schultz.
-+-----------------------------------------------------------------------------------------------------------------------------+
-|                                                                                                                             |
-| The USBsteal will copy the usernames, IP and MAC addresses, open ports, hostname and specific system info to the USB stick. |
-|                                                                                                                             |
-+-----------------------------------------------------------------------------------------------------------------------------+
+
+The USBsteal will copy the usernames, IP and MAC addresses, open ports, hostname and specific system info to the USB stick.
+
 !!!IT WORKS ONLY IN WINDOWS!!!
 Please, do not use this script for illegal purposes. I'm not responsible of anything you do with USBsteal!
 
