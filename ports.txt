@@ -1,17 +1,1 @@
 
-Active Connections
-
-  Proto  Local Address          Foreign Address        State
-  TCP    10.17.103.67:55414     40.67.251.132:https    ESTABLISHED
-  TCP    10.17.103.67:55468     a23-13-243-234:https   CLOSE_WAIT
-  TCP    10.17.103.67:55473     arn11s02-in-f14:https  ESTABLISHED
-  TCP    10.17.103.67:55491     arn11s02-in-f3:https   ESTABLISHED
-  TCP    10.17.103.67:55494     arn11s02-in-f16:http   TIME_WAIT
-  TCP    10.17.103.67:55497     arn11s02-in-f14:http   TIME_WAIT
-  TCP    10.17.103.67:55507     a104-75-71-112:http    TIME_WAIT
-  TCP    10.17.103.67:55508     kiva:http              CLOSE_WAIT
-  TCP    10.17.103.67:55509     kiva:http              CLOSE_WAIT
-  TCP    10.17.103.67:55510     a95-101-174-99:http    ESTABLISHED
-  TCP    10.17.103.67:55511     a95-101-174-99:http    ESTABLISHED
-  TCP    10.17.103.67:55512     a95-101-173-37:https   ESTABLISHED
-  TCP    10.17.103.67:55513     a95-101-173-37:https   ESTABLISHED
