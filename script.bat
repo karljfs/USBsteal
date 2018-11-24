@@ -33,8 +33,6 @@ echo 80%% Almost done...
 echo 90%% Last step, it may take up to 1 minute...
 msinfo32 /nfo info.nfo
 echo Finished, Thank you for using Microsoft Windows!
-
-::Show and change user info, passwords etc.
 echo Done, this window will close automatically.
 
 ::Poweroff the computer (to unmount your USB).
