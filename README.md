@@ -20,6 +20,6 @@ How does the USBsteal work?
 The USBsteal will copy the data mentioned above to your USB stick automatically, after you have inserted it into Windows computer.
 There are several files (e.g. ports.txt, mac.txt etc). The USBsteal will copy the command outputs to these files.
 
-The USBsteal is still in development, soon it will get the user's passwords, important files etc.
+The USBsteal is still in development, soon it will get the users passwords, important files, opens a meterpreter session etc.
 
 Visit my website: https://karljohann.000webhostapp.com/en/
